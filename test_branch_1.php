@@ -5,6 +5,3 @@
  * and open the template in the editor.
  */
 
-
-echo 'ciao';
-echo 'branch test 1';
